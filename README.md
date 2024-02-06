@@ -13,10 +13,12 @@
 <br>
 
 <!-- Contents -->
-### 🔔 Toy Projects (Ascending order of starting date)
+### 🔔 Toy Projects (Descending order of difficulty)
 > 1. Stock
 
-### 🔔 Toy Projects (Descending order of difficulty)
+<br>
+
+### 🔔 Toy Projects (Ascending order of starting date)
 > 1. Stock
 
 <br>
