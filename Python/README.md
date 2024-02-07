@@ -1,3 +1,10 @@
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+
+<br>
+<br>
+
 <!-- Contents -->
 ## ✅ Python Toy Projects (Descending order of difficulty)
 > ### 1. [Stock Information](https://github.com/Kim-src/Toy-Projects/tree/main/Python/Stock%20Information)
