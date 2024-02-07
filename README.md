@@ -1,35 +1,24 @@
-<!-- 작성자 소개 -->
+<!-- Introduction -->
 ### 🎁 My Profile
-> - [Velog Blog (Kim-src)](https://velog.io/@kim-src/series)
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<!-- Dates -->
-<p align="right">UPDATE : February 6, 2024</p>
-<p align="right">START : February 6, 2024</p>
-
-<!-- Title -->
-# ✅ My Playground
-
+<br>
 <br>
 
 <!-- Contents -->
-### 🔔 Toy Projects (Descending order of difficulty)
-> 1. Stock
+## ✅ All Toy Projects (Descending order of difficulty)
+> ### 1. [Stock Information]() made with Python
+> - 프로젝트 소개 : 자동화 기능이 있는 Python 라이브러리를 활용한 주식 종가 조회 프로그램
+> - 개발 목적 : 웹 크롤링을 이용한 데이터 분석 방법 학습
+> - 주요 라이브러리 : BeautifulSoup, Pandas
 
 <br>
 
-### 🔔 Toy Projects (Ascending order of starting date)
-> 1. Stock
-
-<br>
-
-***
-
-<br>
-<br>
-<br>
-
-<!-- Tips -->
-### 🔔 []()
+## ✅ All Toy Projects (Ascending order of starting date)
+> ### 1. [Stock Information]() made with Python
+> - 프로젝트 소개 : 자동화 기능이 있는 Python 라이브러리를 활용한 주식 종가 조회 프로그램
+> - 개발 목적 : 웹 크롤링을 이용한 데이터 분석 방법 학습
+> - 주요 라이브러리 : BeautifulSoup, Pandas
 
 <br>
 
@@ -38,7 +27,3 @@
 <br>
 <br>
 <br>
-
-<!-- References -->
-# 🎁 References
-### 🔑 []()
