@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## ✅ All Java Projects
+## ✅ All Projects
 > ### 3. [KimLibrary_STS3](https://github.com/Kim-src/KimLibrary_STS3)
 > - 개발 환경 : Spring Tool Suite 3
 > - 개발 목적 : MVC 패턴의 Legacy Project 웹 개발 경험 및 STS3 활용 경험 습득
