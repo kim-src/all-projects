@@ -46,8 +46,10 @@
 <링크드인 소개글>
 KimLibrary는 웹 개발 역량을 증진시키기 위해 수행한 프로젝트입니다.
 Spring을 정통하기 위해 STS3 환경에서 Spring Framework를 사용하였습니다.
-그런데 Spring과 DB를 연결 과정에서 외부 라이브러리 버전을 호환시기키지 못하였습니다.
-그래서 STS3만이 아니라 IntelliJ, VS Code, Eclipse 환경에서도 같은 목적의 프로젝트를 개발하려고 합니다.
+그런데 Spring과 DB를 연결하는 과정에서 외부 라이브러리 버전을 호환시기키지 못하였습니다.
+왜냐하면 Spring을 이용한 웹 개발에 대해 이해가 부족했기 때문입니다.
+그래서 Spring Boot를 활용하여 Spring에 대한 이해도를 더욱 높이고 싶었습니다.
+이제 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발하려고 합니다.
 
 -->
 
