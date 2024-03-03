@@ -56,6 +56,7 @@ Google Colab 환경에서 개발중이며 싱크홀 데이터는
 > - 기술 스택 :  
 > <img alt="STS3" src="https://img.shields.io/badge/STS3-6DB33F.svg?style=flat-square&logo=spring&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F9AB00.svg?style=flat-square&logo=apache&logoColor=white" />
 
+<!--
 #### 🛠️ 향후 계획 및 발전 방향
 KimLibrary는 웹 개발 역량을 증진시키기 위해 수행한 프로젝트입니다.
 Spring을 정통으로 학습하기 위해 STS3 환경에서 Spring Framework를 사용하여 개발하였습니다.
@@ -63,6 +64,7 @@ Spring을 정통으로 학습하기 위해 STS3 환경에서 Spring Framework를
 Spring을 이용한 웹 개발에 대해 이해가 부족했기 때문에 적절한 라이브러리가 적용되지 않았습니다.
 이를 해결하기 위해 Spring Boot를 활용하여 Spring에 대한 이해도를 더욱 높이려고 합니다.
 따라서 추후 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발할 예정입니다.
+-->
 
 <br>
 
