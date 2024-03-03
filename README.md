@@ -48,8 +48,8 @@ Google Colab 환경에서 개발중이며 싱크홀 데이터는
 <br>
 
 ### 📌 3. [KimLibrary_STS3](https://github.com/Kim-src/KimLibrary_STS3)
-> - 개발 환경 : Spring Tool Suite 3
-> - 개발 목적 : MVC 패턴의 Legacy Project 웹 개발 경험 및 STS3 활용 경험 습득
+- 개발 환경 : Spring Tool Suite 3
+- 개발 목적 : MVC 패턴의 Legacy Project 웹 개발 경험 및 STS3 활용 경험 습득
 > - 개발 내용 : 도서관 웹 페이지(KimLibrary) 제작 및 도서 대여자 관리
 > - 개발 역량 : STS3 활용, M-V-C 구축, Tomcat 서버 연동, 외부 라이브러리 이해, DB 생성, DB 연동
 > - 상세 내용은 깃허브 레포지토리 참고(링크)
