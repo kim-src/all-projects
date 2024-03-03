@@ -32,12 +32,12 @@
 - 현재 이미지 학습을 위한 초기 AI 모델은 구축되었습니다.
 - 추후 이미 준비된 7만장 이상의 이미지를 학습시켜서 AI의 이미지 분석 수준을 상승시킬 예정입니다.
 
-#### 🔔 싱크홀 분석이란
+#### 🔔 싱크홀 데이터 분석이란
 - 싱크홀 이슈가 매년 꾸준히 대두되면서 국가에서는 땅꺼짐 사고를 예방하기 위한 사업을 진행중입니다.
 - 땅꺼짐 사고를 예방하기 위해서는 GPR이라는 레이더 장치를 이용하여 도로 하부를 조사해야 됩니다.
-- 이때 도로 하부에 빈 공간(싱크홀)이 어느 곳에 있는지 또는 없는지는 조사하기 전까지 알 수 없습니다.
+- 이때 도로 하부에 빈 공간(싱크홀)이 어느 곳에 있는지, 또는 없는지는 조사하기 전까지 알 수 없습니다.
 - 따라서 도로 일부가 아닌 도로 전체에 대해 조사해야 되고 방대한 양의 GPR 데이터가 수집됩니다.
-
+- 수집된 GPR 전자기파 데이터는 전문 프로그램에서 시각화되어 보여지고 시각화 된 데이터를 분석해야 됩니다.
 
 
 
@@ -63,15 +63,13 @@ Google Colab 환경에서 개발중이며 싱크홀 데이터는
 - 기술 스택 :  
 <img alt="STS3" src="https://img.shields.io/badge/STS3-6DB33F.svg?style=flat-square&logo=spring&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F9AB00.svg?style=flat-square&logo=apache&logoColor=white" />
 
-<!--
 #### 🛠️ 향후 계획 및 발전 방향
-KimLibrary는 웹 개발 역량을 증진시키기 위해 수행한 프로젝트입니다.
-Spring을 정통으로 학습하기 위해 STS3 환경에서 Spring Framework를 사용하여 개발하였습니다.
-그런데 Spring과 DB를 연결하는 과정에서 외부 라이브러리 버전을 호환시기키지 못하였습니다.
-Spring을 이용한 웹 개발에 대해 이해가 부족했기 때문에 적절한 라이브러리가 적용되지 않았습니다.
-이를 해결하기 위해 Spring Boot를 활용하여 Spring에 대한 이해도를 더욱 높이려고 합니다.
-따라서 추후 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발할 예정입니다.
--->
+- KimLibrary는 웹 개발 역량을 증진시키기 위해 수행한 프로젝트입니다.
+- Spring을 정통으로 학습하기 위해 STS3 환경에서 Spring Framework를 사용하여 개발하였습니다.
+- 그런데 Spring과 DB를 연결하는 과정에서 외부 라이브러리 버전을 호환시기키지 못하였습니다.
+- Spring을 이용한 웹 개발에 대해 이해가 부족했기 때문에 적절한 라이브러리가 적용되지 않았습니다.
+- 이를 해결하기 위해 Spring Boot를 활용하여 Spring에 대한 이해도를 더욱 높이려고 합니다.
+- 따라서 추후 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발할 예정입니다.
 
 <br>
 
