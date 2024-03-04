@@ -15,7 +15,10 @@
 - 기술 스택 :  
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-2ca02c.svg?style=flat-square&logo=python&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-white.svg?style=flat-square&logo=pandas&logoColor=black" /> <img alt="Requests" src="https://img.shields.io/badge/Requests-2CA5E0.svg?style=flat-square&logo=python&logoColor=white" />
 
-#### 🔔 
+#### 🔔 학습 결론
+- 웹 크롤링을 이용하여 HTML로 구성된 웹 페이지 정보를 쉽게 가져올 수 있었습니다.
+- 더 나아가 검색 엔진 구축 등에 
+- 그런데 웹 크롤링은 수많은 데이터 분석 방법 중 하나의 도구일뿐이었습니다.
 - 
 
 <br>
