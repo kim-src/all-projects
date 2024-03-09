@@ -77,6 +77,14 @@
 > - 따라서 추후 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발할 예정입니다.
 
 <br>
+<br>
+
+### 📌 4. [KimGradeCalculator](https://github.com/Kim-src/KimGradeCalculator_IntelliJ)
+> - 학습 환경 : IntelliJ
+> - 학습 내용 : 학점 계산기 제작
+> - 상세 내용 : 학생의 평균 학점 계산
+
+<br>
 
 ***
 
