@@ -23,7 +23,6 @@
 > - 물론 자동화 프로그램 개발도 중요하지만 데이터 수집 계획 및 해석 방법이 더 중요한 것 같습니다.
 
 <br>
-<br>
 
 ### 📌 2. [VisualCavity AI](https://github.com/Kim-src/VisualCavity)
 > - 개발 환경 : Google Colab
@@ -57,7 +56,6 @@
 > - 그렇기 때문에 싱크홀 분석을 돕는 AI 모델이 개발되면 데이터 분석 수준이 일부 낮아질 것으로 예상됩니다.
 
 <br>
-<br>
 
 ### 📌 3. [KimLibrary_STS3](https://github.com/Kim-src/KimLibrary_STS3)
 > - 개발 환경 : Spring Tool Suite 3
@@ -77,6 +75,9 @@
 > - 따라서 추후 IntelliJ, VS Code, Eclipse 환경에서도 동일한 내용의 프로젝트를 개발할 예정입니다.
 
 <br>
+
+### 📌 4. 
+
 <br>
 
 ### 📌 5. [GradeCalculator_IntelliJ](https://github.com/Kim-src/GradeCalculator_IntelliJ)
