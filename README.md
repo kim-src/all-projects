@@ -79,7 +79,7 @@
 <br>
 <br>
 
-### 📌 4. [KimGradeCalculator](https://github.com/Kim-src/KimGradeCalculator_IntelliJ)
+### 📌 5. [GradeCalculator_IntelliJ](https://github.com/Kim-src/GradeCalculator_IntelliJ)
 > - 학습 환경 : IntelliJ
 > - 학습 내용 : 학점 계산기 제작
 > - 상세 내용 : 학생의 평균 학점 계산
