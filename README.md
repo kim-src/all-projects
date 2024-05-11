@@ -6,7 +6,7 @@
 
 ## ✅ All Projects
 
-### 📌 1. [StockScraper](https://github.com/Kim-src/StockScraper)
+### 📌 1. [주식정보 크롤링](https://github.com/Kim-src/StockScraper)
 > - 개발 환경 : Google Colab
 > - 개발 목적 : Python을 이용한 웹 크롤링 경험 및 Colab 활용 겸험 습득
 > - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 정보 수집
@@ -65,7 +65,7 @@
 
 <br>
 
-### 📌 3. [KimLibrary_STS3](https://github.com/Kim-src/KimLibrary_STS3)
+### 📌 3. [도서관 홈페이지](https://github.com/Kim-src/KimLibrary_STS3)
 > - 개발 환경 : Spring Tool Suite 3
 > - 개발 목적 : MVC 패턴의 Legacy Project 웹 개발 경험 및 STS3 활용 경험 습득
 > - 개발 내용 : 도서관 웹 페이지(KimLibrary) 제작 및 도서 대여자 관리
@@ -100,7 +100,7 @@
 
 <br>
 
-### 📌 5. [Calculator_IntelliJ](https://github.com/Kim-src/Calculator_IntelliJ)
+### 📌 5. [사칙연산 계산기](https://github.com/Kim-src/Calculator_IntelliJ)
 > - 학습 환경 : IntelliJ
 > - 학습 언어 : Java
 > - 학습 내용 : 사칙연산 계산기 제작
@@ -108,7 +108,7 @@
 
 <br>
 
-### 📌 6. [GradeCalculator_IntelliJ](https://github.com/Kim-src/GradeCalculator_IntelliJ)
+### 📌 6. [학점 계산기](https://github.com/Kim-src/GradeCalculator_IntelliJ)
 > - 학습 환경 : IntelliJ
 > - 학습 언어 : Java
 > - 학습 내용 : 학점 계산기 제작
@@ -116,7 +116,31 @@
 
 <br>
 
+### 📌 7. 점수 관리 프로그램
+> - 학습 환경 : Eclipse
+> - 학습 언어 : Java
+> - 요약 내용 : [링크드인 글 링크](https://www.linkedin.com/feed/update/urn:li:activity:7194300110413967361/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7194300110413967361%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/blob/main/sample09/src/assignment/ScoreRanking.java), [블로그 글 링크](https://kim-src.github.io/posts/%EC%8B%9C%ED%97%98-%EC%A0%90%EC%88%98-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95/)
+
+<br>
+
+### 📌 8. 로또 시스템
+> - 학습 환경 : Eclipse
+> - 학습 언어 : Java
+> - 요약 내용 : [링크드인 글 링크](https://www.linkedin.com/feed/update/urn:li:activity:7194302155430719488/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7194302155430719488%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/blob/540febd1523fbea134f3dba87f3f29f1db4f7bae/sample09/src/assignment/LottoGenerator.java), [블로그 글 링크](https://kim-src.github.io/posts/%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EB%8B%B9%EC%B2%A8-%EA%B2%B0%EA%B3%BC-%ED%91%9C%EC%8B%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95/)
+
+### 📌 9. 
+
 ***
+
+<!--
+### 📌 0. 이름
+> - 학습 환경 : Eclipse
+> - 학습 언어 : Java
+> - 요약 내용 : [링크드인 글 링크]()
+> - 상세 내용 : [Java 코드 링크](), [블로그 글 링크]()
+-->
 
 <br>
 <br>
