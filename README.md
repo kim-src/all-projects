@@ -130,7 +130,13 @@
 > - 요약 내용 : [링크드인 글 링크](https://www.linkedin.com/feed/update/urn:li:activity:7194302155430719488/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7194302155430719488%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 > - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/blob/540febd1523fbea134f3dba87f3f29f1db4f7bae/sample09/src/assignment/LottoGenerator.java), [블로그 글 링크](https://kim-src.github.io/posts/%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EB%8B%B9%EC%B2%A8-%EA%B2%B0%EA%B3%BC-%ED%91%9C%EC%8B%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95/)
 
-### 📌 9. 
+<br>
+
+### 📌 9. 순발력을 요구하는 구구단 게임
+> - 학습 환경 : Eclipse
+> - 학습 언어 : Java
+> - 요약 내용 : [링크드인 글 링크](https://www.linkedin.com/feed/update/urn:li:activity:7194338650522894336/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7194338650522894336%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/tree/main/sample13/src/kr/it/assignment), [블로그 글 링크](https://kim-src.github.io/posts/%EA%B5%AC%EA%B5%AC%EB%8B%A8-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95-%EB%B0%8F-Java-Timer,-TimerTask-%ED%81%B4%EB%9E%98%EC%8A%A4/)
 
 ***
 
